@@ -32,6 +32,3 @@ The code will look like the following:
 * [Getting Started with Oracle VM VirtualBox]( https://www.packtpub.com/virtualization-and-cloud/getting-started-oracle-vm-virtualbox?utm_source=github&utm_medium=repository&utm_content=9781782177821 )
 
 * [Mastering KVM Virtualization]( https://www.packtpub.com/networking-and-servers/mastering-kvm-virtualization?utm_source=github&utm_medium=repository&utm_content=9781784399054 )
-
-### Suggestions and Feedback
-[Click here]( https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform ) if you have any feedback or suggestions.
